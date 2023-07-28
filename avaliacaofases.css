@@ -1,0 +1,24 @@
+header{
+    background-color: #3fb959;
+    padding: 35px;
+    text-align: center;
+    border-bottom: 5px solid #000000;
+    font-size: 26px;
+}
+
+body {
+    border: 2px;
+    border-left: 120px;
+    text-align: center;
+    background-color: #b3f4a0;
+}
+
+.texto{
+    font-size: medium;
+    color:#5D4E49
+}
+
+footer{
+    background-color: rgb(46, 168, 54);
+    margin-top: 25%;
+}
